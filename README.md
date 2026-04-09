@@ -8,11 +8,15 @@
 
 *Send a prompt. Get working code. No IDE. No terminal. No setup.*
 
+## 👉 [**Try it free → @Xanthorox_bot**](https://t.me/Xanthorox_bot)
+
+> **Free to use.** Just open the bot and send `/start` — no account, no payment, no setup required.
+
 ---
 
-[![Status](https://img.shields.io/badge/Status-Production-22c55e?style=flat-square)](#)
+[![Live](https://img.shields.io/badge/Bot-Live%20Now-22c55e?style=flat-square&logo=telegram)](https://t.me/Xanthorox_bot)
+[![Free](https://img.shields.io/badge/Access-Free-22c55e?style=flat-square)](#)
 [![Agent](https://img.shields.io/badge/Agent-Autonomous-7C3AED?style=flat-square)](#)
-[![Interface](https://img.shields.io/badge/Interface-Telegram-29A8E2?style=flat-square&logo=telegram)](#)
 [![Model](https://img.shields.io/badge/Model-Xanthorox%20AI-FF6B35?style=flat-square)](#)
 
 </div>
@@ -164,5 +168,7 @@ Built-in admin layer for managing access, quota, and system health.
 <div align="center">
 
 **VibeMate** — *The coding agent that fits in your pocket.*
+
+**[→ Start for free at @Xanthorox_bot](https://t.me/Xanthorox_bot)**
 
 </div>
